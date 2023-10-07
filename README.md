@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**wilmarques/wilmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer. Specialized in Web development, but also knows something about Android.
 
-Here are some ideas to get you started:
+Currently I'm learning a lot about Flutter, but I have 5+ years of experience with Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As I believe that is very important to know about other things related to programming, I have some experience with Back-End development using Java, C# and Node.
+
+Other important things:
+
+- 🇧🇷 Brazilian
+- 👨‍👩‍👦 Married and father of a little daughter
+- 🥸 Love spreading knowledge
+- 🎷 Play Clarinet since 10 years old, and a little bit of Sax for fun
