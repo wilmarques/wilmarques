@@ -2,7 +2,7 @@
 
 I'm a Front-End Developer. Specialized in Web development, but also knows something about Android.
 
-Currently I'm learning a lot about Flutter, but I have 5+ years of experience with Angular.
+Currently I'm learning a lot about Flutter, but I have years of experience with Angular.
 
 As I believe that is very important to know about other things related to programming, I have some experience with Back-End development using Java, C# and Node.
 
