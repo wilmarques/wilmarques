@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-I'm a Front-End Developer. Specialized in Web development, but also knows something about Android.
+I'm a Developer Experience Specialist working at Santander Bank in Brazil.
 
-Currently I'm learning a lot about Flutter, but I have years of experience with Angular.
+I have 10+ years of experience in Front-End development, especially web development.
 
-As I believe that is very important to know about other things related to programming, I have some experience with Back-End development using Java, C# and Node.
+Since 2023, I've been adventuring in AI (Artificial Intelligence).
+
+My main objective is to learn about AI and how to use it to improve everything related to SDLC (Software Delivery Life Cycle).
 
 Other important things:
 
 - 🇧🇷 Brazilian
 - 👨‍👩‍👦 Married and father of a little daughter
-- 🥸 Love spreading knowledge
-- 🎷 Play Clarinet since 10 years old, and a little bit of Sax for fun
+- 🥸 Loves spreading knowledge
+- 🎷 Plays Clarinet since 10 years old, and a little bit of Sax for fun
